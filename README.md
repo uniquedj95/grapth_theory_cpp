@@ -1,2 +1,2 @@
-# grapth_theory_cpp
+# Grapthb Theory Algorithms in CPP
 Implementation of different graph theory algorithms
